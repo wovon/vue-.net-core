@@ -1,0 +1,9 @@
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Tools\bin\Release\netcoreapp2.1\V.NetCore.Tools.deps.json
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Tools\bin\Release\netcoreapp2.1\V.NetCore.Tools.dll
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Tools\bin\Release\netcoreapp2.1\V.NetCore.Tools.pdb
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Tools\obj\Release\netcoreapp2.1\V.NetCore.Tools.csprojAssemblyReference.cache
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Tools\obj\Release\netcoreapp2.1\V.NetCore.Tools.csproj.CoreCompileInputs.cache
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Tools\obj\Release\netcoreapp2.1\V.NetCore.Tools.AssemblyInfoInputs.cache
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Tools\obj\Release\netcoreapp2.1\V.NetCore.Tools.AssemblyInfo.cs
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Tools\obj\Release\netcoreapp2.1\V.NetCore.Tools.dll
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Tools\obj\Release\netcoreapp2.1\V.NetCore.Tools.pdb

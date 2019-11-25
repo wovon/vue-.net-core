@@ -1,0 +1,5 @@
+C:\Users\v\source\repos\V.NetCore\V.NetCore.UnitWork\bin\Debug\netcoreapp2.1\V.NetCore.UnitWork.deps.json
+C:\Users\v\source\repos\V.NetCore\V.NetCore.UnitWork\bin\Debug\netcoreapp2.1\V.NetCore.UnitWork.dll
+C:\Users\v\source\repos\V.NetCore\V.NetCore.UnitWork\obj\Debug\netcoreapp2.1\V.NetCore.UnitWork.csproj.CoreCompileInputs.cache
+C:\Users\v\source\repos\V.NetCore\V.NetCore.UnitWork\obj\Debug\netcoreapp2.1\V.NetCore.UnitWork.AssemblyInfoInputs.cache
+C:\Users\v\source\repos\V.NetCore\V.NetCore.UnitWork\obj\Debug\netcoreapp2.1\V.NetCore.UnitWork.AssemblyInfo.cs

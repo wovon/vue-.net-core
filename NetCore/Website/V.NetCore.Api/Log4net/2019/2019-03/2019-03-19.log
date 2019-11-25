@@ -1,0 +1,57 @@
+*——*——*——*——*——*——Begin——*——*——*——*——*——*
+记录时间：2019-03-19 11:39:21,656
+线程ID：12
+日志等级：ERROR
+日志类型：V.NetCore.Infrastructure.GlobalExceptionFilter
+Error
+*——*——*——*——*——*——E n d——*——*——*——*——*——*
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at V.NetCore.App.ManagerApp.ButtonManagerApp.LoadByMenuIds(String menuIds) in C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\ManagerApp\ButtonManagerApp.cs:line 87
+   at V.NetCore.Api.Controllers.ButtonsController.LoadByMenuIds(String menuIds) in C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\Controllers\ButtonsController.cs:line 128
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+*——*——*——*——*——*——Begin——*——*——*——*——*——*
+记录时间：2019-03-19 11:39:24,874
+线程ID：8
+日志等级：ERROR
+日志类型：V.NetCore.Infrastructure.GlobalExceptionFilter
+Error
+*——*——*——*——*——*——E n d——*——*——*——*——*——*
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at V.NetCore.App.ManagerApp.ButtonManagerApp.LoadByMenuIds(String menuIds) in C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\ManagerApp\ButtonManagerApp.cs:line 87
+   at V.NetCore.Api.Controllers.ButtonsController.LoadByMenuIds(String menuIds) in C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\Controllers\ButtonsController.cs:line 128
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+*——*——*——*——*——*——Begin——*——*——*——*——*——*
+记录时间：2019-03-19 11:42:18,506
+线程ID：15
+日志等级：ERROR
+日志类型：V.NetCore.Infrastructure.GlobalExceptionFilter
+Error
+*——*——*——*——*——*——E n d——*——*——*——*——*——*
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at V.NetCore.App.ManagerApp.ButtonManagerApp.LoadByMenuIds(String menuIds) in C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\ManagerApp\ButtonManagerApp.cs:line 87
+   at V.NetCore.Api.Controllers.ButtonsController.LoadByMenuIds(String menuIds) in C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\Controllers\ButtonsController.cs:line 128
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()

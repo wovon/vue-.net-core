@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Z.EntityFramework.Plus.EFCore" Version="1.8.14" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\V.NetCore.Domain\V.NetCore.Domain.csproj" />
+    <ProjectReference Include="..\V.NetCore.Infrastructure\V.NetCore.Infrastructure.csproj" />
+    <ProjectReference Include="..\V.NetCore.IUnitWork\V.NetCore.IUnitWork.csproj" />
+  </ItemGroup>
+
+</Project>

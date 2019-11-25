@@ -1,0 +1,14 @@
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Repository\bin\Release\netcoreapp2.1\V.NetCore.Repository.deps.json
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Repository\bin\Release\netcoreapp2.1\V.NetCore.Repository.runtimeconfig.json
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Repository\bin\Release\netcoreapp2.1\V.NetCore.Repository.runtimeconfig.dev.json
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Repository\bin\Release\netcoreapp2.1\V.NetCore.Repository.dll
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Repository\bin\Release\netcoreapp2.1\V.NetCore.Repository.pdb
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Repository\bin\Release\netcoreapp2.1\V.NetCore.Infrastructure.dll
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Repository\bin\Release\netcoreapp2.1\V.NetCore.Infrastructure.pdb
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Repository\obj\Release\netcoreapp2.1\V.NetCore.Repository.csprojAssemblyReference.cache
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Repository\obj\Release\netcoreapp2.1\V.NetCore.Repository.csproj.CoreCompileInputs.cache
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Repository\obj\Release\netcoreapp2.1\V.NetCore.Repository.AssemblyInfoInputs.cache
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Repository\obj\Release\netcoreapp2.1\V.NetCore.Repository.AssemblyInfo.cs
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Repository\obj\Release\netcoreapp2.1\V.NetCore.Repository.csproj.CopyComplete
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Repository\obj\Release\netcoreapp2.1\V.NetCore.Repository.dll
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Repository\obj\Release\netcoreapp2.1\V.NetCore.Repository.pdb

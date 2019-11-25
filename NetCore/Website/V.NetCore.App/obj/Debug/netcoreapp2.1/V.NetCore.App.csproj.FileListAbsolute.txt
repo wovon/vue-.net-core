@@ -1,0 +1,63 @@
+C:\Users\v\source\repos\V.NetCore\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.App.deps.json
+C:\Users\v\source\repos\V.NetCore\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.App.dll
+C:\Users\v\source\repos\V.NetCore\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.App.pdb
+C:\Users\v\source\repos\V.NetCore\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.csprojAssemblyReference.cache
+C:\Users\v\source\repos\V.NetCore\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.csproj.CoreCompileInputs.cache
+C:\Users\v\source\repos\V.NetCore\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.AssemblyInfoInputs.cache
+C:\Users\v\source\repos\V.NetCore\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.AssemblyInfo.cs
+C:\Users\v\source\repos\V.NetCore\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.dll
+C:\Users\v\source\repos\V.NetCore\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.pdb
+C:\Users\v\source\repos\V.NetCore\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.dll
+C:\Users\v\source\repos\V.NetCore\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Repository.dll
+C:\Users\v\source\repos\V.NetCore\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Tools.dll
+C:\Users\v\source\repos\V.NetCore\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Repository.pdb
+C:\Users\v\source\repos\V.NetCore\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Tools.pdb
+C:\Users\v\source\repos\V.NetCore\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.pdb
+C:\Users\v\source\repos\V.NetCore\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.csproj.CopyComplete
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.App.deps.json
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.App.dll
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.App.pdb
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.dll
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Repository.dll
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Tools.dll
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Repository.pdb
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Tools.pdb
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.pdb
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.csprojAssemblyReference.cache
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.csproj.CoreCompileInputs.cache
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.AssemblyInfoInputs.cache
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.AssemblyInfo.cs
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.csproj.CopyComplete
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.dll
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.pdb
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.App.deps.json
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.App.dll
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.App.pdb
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.dll
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Repository.dll
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Tools.dll
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Repository.pdb
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Tools.pdb
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.pdb
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.csprojAssemblyReference.cache
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.csproj.CoreCompileInputs.cache
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.AssemblyInfoInputs.cache
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.AssemblyInfo.cs
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.csproj.CopyComplete
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.dll
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.pdb
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.App.deps.json
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.App.dll
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.App.pdb
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.dll
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Repository.dll
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Tools.dll
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Repository.pdb
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Tools.pdb
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.App\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.pdb
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.csprojAssemblyReference.cache
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.AssemblyInfoInputs.cache
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.AssemblyInfo.cs
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.csproj.CopyComplete
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.dll
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.App\obj\Debug\netcoreapp2.1\V.NetCore.App.pdb

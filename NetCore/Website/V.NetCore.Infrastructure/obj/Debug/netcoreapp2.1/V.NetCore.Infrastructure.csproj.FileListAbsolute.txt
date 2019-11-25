@@ -1,0 +1,17 @@
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Infrastructure\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.deps.json
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Infrastructure\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.dll
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Infrastructure\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.pdb
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Infrastructure\obj\Debug\netcoreapp2.1\V.NetCore.Infrastructure.csprojAssemblyReference.cache
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Infrastructure\obj\Debug\netcoreapp2.1\V.NetCore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Infrastructure\obj\Debug\netcoreapp2.1\V.NetCore.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Infrastructure\obj\Debug\netcoreapp2.1\V.NetCore.Infrastructure.AssemblyInfo.cs
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Infrastructure\obj\Debug\netcoreapp2.1\V.NetCore.Infrastructure.dll
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Infrastructure\obj\Debug\netcoreapp2.1\V.NetCore.Infrastructure.pdb
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Infrastructure\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.deps.json
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Infrastructure\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.dll
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Infrastructure\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.pdb
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Infrastructure\obj\Debug\netcoreapp2.1\V.NetCore.Infrastructure.csprojAssemblyReference.cache
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Infrastructure\obj\Debug\netcoreapp2.1\V.NetCore.Infrastructure.AssemblyInfoInputs.cache
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Infrastructure\obj\Debug\netcoreapp2.1\V.NetCore.Infrastructure.AssemblyInfo.cs
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Infrastructure\obj\Debug\netcoreapp2.1\V.NetCore.Infrastructure.dll
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Infrastructure\obj\Debug\netcoreapp2.1\V.NetCore.Infrastructure.pdb

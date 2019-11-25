@@ -1,0 +1,9 @@
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Infrastructure\bin\Release\netcoreapp2.1\V.NetCore.Infrastructure.deps.json
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Infrastructure\bin\Release\netcoreapp2.1\V.NetCore.Infrastructure.dll
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Infrastructure\bin\Release\netcoreapp2.1\V.NetCore.Infrastructure.pdb
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Infrastructure\obj\Release\netcoreapp2.1\V.NetCore.Infrastructure.csprojAssemblyReference.cache
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Infrastructure\obj\Release\netcoreapp2.1\V.NetCore.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Infrastructure\obj\Release\netcoreapp2.1\V.NetCore.Infrastructure.AssemblyInfoInputs.cache
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Infrastructure\obj\Release\netcoreapp2.1\V.NetCore.Infrastructure.AssemblyInfo.cs
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Infrastructure\obj\Release\netcoreapp2.1\V.NetCore.Infrastructure.dll
+D:\Workspace\.NET Core\NETCORE\Website\V.NetCore.Infrastructure\obj\Release\netcoreapp2.1\V.NetCore.Infrastructure.pdb

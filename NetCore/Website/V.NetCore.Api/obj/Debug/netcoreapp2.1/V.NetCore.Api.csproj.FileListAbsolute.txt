@@ -1,0 +1,49 @@
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Api.deps.json
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Api.runtimeconfig.json
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Api.runtimeconfig.dev.json
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Api.dll
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Api.pdb
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.App.dll
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.dll
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Repository.dll
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Tools.dll
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.App.pdb
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Repository.pdb
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.pdb
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Tools.pdb
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.csprojAssemblyReference.cache
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.csproj.CoreCompileInputs.cache
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.RazorAssemblyInfo.cache
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.RazorAssemblyInfo.cs
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.AssemblyInfoInputs.cache
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.AssemblyInfo.cs
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.RazorTargetAssemblyInfo.cache
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.csproj.CopyComplete
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.dll
+C:\Users\v\Desktop\新建文件夹 (2)\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.pdb
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\log4net.config
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Api.deps.json
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Api.runtimeconfig.json
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Api.runtimeconfig.dev.json
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Api.dll
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Api.pdb
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.App.dll
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.dll
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Repository.dll
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Tools.dll
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.App.pdb
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Repository.pdb
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Infrastructure.pdb
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\bin\Debug\netcoreapp2.1\V.NetCore.Tools.pdb
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.csprojAssemblyReference.cache
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.RazorAssemblyInfo.cache
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.RazorAssemblyInfo.cs
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.AssemblyInfoInputs.cache
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.AssemblyInfo.cs
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.RazorTargetAssemblyInfo.cache
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.csproj.CopyComplete
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.dll
+D:\Workspace\公司内部netCore+VUE\NetCore\Website\V.NetCore.Api\obj\Debug\netcoreapp2.1\V.NetCore.Api.pdb
